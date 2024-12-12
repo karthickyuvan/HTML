@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mini Project -1 </title>
+<style>
+    .center
+    {
+        text-align: center;
+    }
+   .orange{
+        color: red;
+    }
+</style>
+</head>
+<body>
+  <h1 class="center">This is my First <span>mini Project</span>  in HTML</h1>
+    <p class="orange center"> <i>A SHORT <mark>Q & A</mark> SESSION - Time:<time>21:09</time></i></p>
+    <h2>Question No : 1</h2>
+    <p>What is Website?</p>
+     <pre>      <dfn>A <strong>webpage</strong> is a collection of many web pages, and web <br> pages are digital files that are written using HTML(HyperText Markup Language). </dfn>
+     </dfn></pre> 
+    <hr>
+    <h2>Question No : 1</h2>
+    <p>What is a website Develpoment?</p>
+    <pre>
+        <dfn>Web development refers to the <ins>creating, building, and maintaining of websites.</ins> <br> It includes aspects such as web design, web publishing, web programming, <br> and database management.
+            </dfn>
+    </pre>
+    <hr>
+    <h2>Question No : 3</h2>
+    <span>CH<sub>4</sub> + 2O<sub>2</sub> - CO<sub>4</sub>+ 2H<sub>4</sub>O</span>
+<hr>
+
+<h2>Question - 4</h2>
+<dfn><span>a<sup>m</sup> x a<sup>n</sup> - a<sup>m+n</sup></dfn></span>
+</body>
+</html>
